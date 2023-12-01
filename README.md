@@ -1,2 +1,2 @@
-# software-tester
-Repository for homework project
+# Тестировщик программного обеспечения: старт в профессии
+2023
